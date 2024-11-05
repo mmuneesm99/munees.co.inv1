@@ -169,7 +169,7 @@ function clearcache() {
 function deploy(cb) {
   ghPages.publish('dist', {
     branch: 'gh-pages',
-    repo: 'https://github.com/mmuneesm99/munees.co.in.git'
+    repo: 'https://github.com/mmuneesm99/munees.co.inv1.git'
   }, cb);
 }
 
