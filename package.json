@@ -1,5 +1,5 @@
 {
-  "name": "munees-portfolio",
+  "name": "munees.co.in",
   "private": true,
   "scripts": {
     "build": "nuxt build",
